@@ -1,6 +1,6 @@
 
 header {
-	background: #BBBBBB;
+	background: rgb(231, 228, 12);
 	padding: 20px 0;
 }
 
@@ -23,14 +23,14 @@ nav li {
 
 nav a {
 	text-transform: uppercase;
-	color: #000000;
+	color: #f5f5f5;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
 }
 
 .produtos {
-	width: 940px;
+	width: 1400px;
 	margin: 0 auto;
 	padding: 50px 0;
 }
@@ -61,6 +61,4 @@ nav a {
 	font-weight: bold;
 	margin-top: 10px;
 }
-.tosa.png {
-    width: 50%;
-}
+
