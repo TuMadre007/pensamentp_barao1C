@@ -1,6 +1,6 @@
 
 header {
-	background: rgb(231, 228, 12);
+	background: rgb(255, 214, 31);
 	padding: 20px 0;
 }
 
@@ -30,7 +30,7 @@ nav a {
 }
 
 .produtos {
-	width: 1400px;
+	width: 2400px;
 	margin: 0 auto;
 	padding: 50px 0;
 }
